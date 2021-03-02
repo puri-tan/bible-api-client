@@ -1,0 +1,28 @@
+{
+  "type": "commonjs",
+  "name": "@puri-tan/bible-api-client",
+  "version": "1.0.0",
+  "description": "Client for bibleapi.co Bible API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puri-tan/bible-api-client.git"
+  },
+  "keywords": [
+    "bible",
+    "bibleapi.co",
+    "client",
+    "api"
+  ],
+  "author": "Ismael Carlos Velten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puri-tan/bible-api-client/issues"
+  },
+  "homepage": "https://github.com/puri-tan/bible-api-client#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
