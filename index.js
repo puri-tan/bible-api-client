@@ -1,1 +1,1 @@
-module.exports = require('./lib/bible-api-client.js')
+module.exports = require('./lib/bible-api-client')
