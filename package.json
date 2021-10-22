@@ -1,7 +1,7 @@
 {
   "type": "commonjs",
   "name": "@puri-tan/bible-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client for Bible API",
   "main": "index.js",
   "repository": {
