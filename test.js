@@ -1,7 +1,7 @@
 const BibleApiClient = require('./lib/bible-api-client')
 const dotenv = require('dotenv')
 
-const message = "Joao 1:1-3"
+const message = "Joao 1:1-3 kjv"
 
 dotenv.config()
 
